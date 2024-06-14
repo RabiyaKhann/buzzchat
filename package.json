@@ -8,4 +8,12 @@
     "theme-provider": "file:./src/providers/theme-provider",
     "convex-client-provider": "file:./src/providers/convex-client-provider"
   }
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/lib/*": ["src/lib/*"],
+      "@/providers/*": ["src/providers/*"],
+      "@/components/*": ["src/components/*"]
+    }
+  }
 }
