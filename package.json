@@ -5,8 +5,8 @@
     "tailwindcss": "^3.0.0",
      "autoprefixer": "^10.0.0",
     "@clerk/nextjs": "^1.0.0",
-     "@/providers/theme-provider": "^1.0.0",
-    "@/providers/convex-client-provider": "^1.0.0"
+    "theme-provider": "file:./path/to/providers/theme-provider",
+    "convex-client-provider": "file:./path/to/providers/convex-client-provider"
     
   }
 }
