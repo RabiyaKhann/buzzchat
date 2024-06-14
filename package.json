@@ -2,7 +2,6 @@
   "dependencies": {
     "tailwindcss": "^3.0.0",
      "@zegocloud/zego-uikit-prebuilt": "^1.0.0",
-     "type": "commonjs",
     "tailwindcss": "^3.0.0"
   }
 }
