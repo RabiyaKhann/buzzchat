@@ -1,4 +1,4 @@
-import { randomID } from "@/lib/utils";
+import { randomID } from "./lib/utils";
 import { useClerk } from "@clerk/nextjs";
 import { ZegoUIKitPrebuilt } from "@zegocloud/zego-uikit-prebuilt";
 
